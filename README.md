@@ -1,27 +1,37 @@
-# Minimal Mistakes remote theme starter
+# InfoLit Idaho  
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+We're a group of Idaho library workers intent on making information literacy accessible through OERs (open educational resources). You can follow along with—or even contribute to—the development of this project here on GitHub or on [our team page at the Rebus Community Open Textbook Directory](https://www1.rebus.community/#/project/379f6355-8f50-4b7f-9408-ab88cb3eafd5).  
 
-Contains basic configuration to get you a site with:
+## All Contributors  
+### Contributors  
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+Thanks to these wonderful people! ([emoji key](#emoji-key)) 
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+| Name             | Contributions                      |
+|:-----------------|:-----------------------------------|
+| Allison Floyd    | :calendar: :thinking:              |
+| Annie Gaines     | :art: :thinking:                   |
+| Devin Becker     | :thinking:                         |
+| Elisabeth Shook  | :thinking:                         |
+| Jonathan Lashley | :calendar: :thinking:              |
+| Kristin Whitman  | :calendar: :thinking:              |
+| Ryan Randall     | :computer: :thinking: :microscope: |
+| Tyler McLane     | :thinking:                         |
 
----
+### Emoji Key  
 
-## Troubleshooting
+| Emoji        | Contribution       |
+|:-------------|:-------------------|
+| :computer:   | code               |
+| :art:        | design & zines     |
+| :thinking:   | ideas              |
+| :calendar:   | project management |
+| :microscope: | research           |
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+We use the [All Contributors](https://allcontributors.org/docs/en/emoji-key) specification for recognizing all types of contribution to this project.  
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## Colophon  
+
+This website is made using [Jekyll](https://jekyllrb.com/), hosted on [GitHub Pages](https://pages.github.com/), and uses the [Minimal Mistakes Remote Theme](https://github.com/mmistakes/mm-github-pages-starter).  
+
+Our "Infolit Idaho" team profile icon is ["Statistics" by faisalovers](https://thenounproject.com/term/statistics/1238357/) from the Noun Project.  
